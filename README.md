@@ -1,7 +1,7 @@
 ## Runge_phenomenon
 Interpolation of function
-![](https://i.imgur.com/yuduaFy.png)
-![](https://i.imgur.com/sq23noD.png)
+![](https://i.imgur.com/S2GQ9Th.png)
+![](https://i.imgur.com/UwS2eMa.png)
 
 Error gets very big when degree of polynomial gets bigger
 
